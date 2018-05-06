@@ -21,6 +21,6 @@ Pasos:
 * Utilizar herramientas de desarrollo Web. Utilizaremos el entorno Bootstrap
 * Publicar en GitHub haciendo un FORK de este proyecto. 
 
-nonok32.github.io (En safari no se visualiza correctamente por algun motivo)
+https://nonok32.github.io/ (En safari no se visualiza correctamente por algun motivo)
 
 
